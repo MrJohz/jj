@@ -19,10 +19,10 @@ A meaningful change
 **[Development Roadmap] &nbsp;&nbsp;&bull;&nbsp;&nbsp;**
 **[Contributing](#contributing)**
 
-[Homepage]: https://jj-vcs.github.io/jj
-[Installation]: https://jj-vcs.github.io/jj/latest/install-and-setup
-[Getting Started]: https://jj-vcs.github.io/jj/latest/tutorial
-[Development Roadmap]: https://jj-vcs.github.io/jj/latest/roadmap
+[Homepage]: https://jj-vcs.github.io/jj/
+[Installation]: https://jj-vcs.github.io/jj/latest/install-and-setup/
+[Getting Started]: https://jj-vcs.github.io/jj/latest/tutorial/
+[Development Roadmap]: https://jj-vcs.github.io/jj/latest/roadmap/
 
 </div>
 
@@ -99,7 +99,7 @@ And it adds several innovative, useful features of its own:
   well. In effect, this is a completely transparent version of `git rebase
   --update-refs` combined with `git rerere`, supported by design.
 
-> [!WARNING]
+> [!INFO]
 > The following features are available for use, but experimental; they may have
 > bugs, backwards incompatible storage changes, and user-interface changes!
 
